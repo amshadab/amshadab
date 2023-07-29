@@ -1,4 +1,3 @@
-![logo](https://github.com/amshadab/amshadab/blob/main/free%20Delivery.png)
 <h1 align="center">Hi 👋, I'm Shadab Ansari</h1>
 <h3 align="center">A passionate programming Student from India</h3>
 <img width="300" height="200" align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=790b761157sfiw1ovbljfeooxndhl77kosrbv28udstnmt4o&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
